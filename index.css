@@ -23,9 +23,13 @@
 
 .categoria-items::-webkit-scrollbar{
     width: 10px;
-    background: rgb(167, 127, 127);
+    background: rgb(153, 123, 123);
 }
 .categoria-items::-webkit-scrollbar-thumb{
-    background: rgb(43, 34, 34);
+    background: darkred;
     border-radius: 10px;
+}
+
+.vote-button {
+    font-size: 3em;
 }
